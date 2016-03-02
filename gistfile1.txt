@@ -1,1 +1,0 @@
-iterative method is fast for smaller matrices but the Strassen’s algorithm is more effective for large size matrices
